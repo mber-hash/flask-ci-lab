@@ -1,4 +1,4 @@
-!\[CI](https://github.com/mber-hash/flask-ci-lab/actions/workflows/ci.yml/badge.svg)
+<img src="https://github.com/mber-hash/flask-ci-lab/actions/workflows/ci.yml/badge.svg">
 
 
 
