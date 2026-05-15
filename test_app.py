@@ -29,5 +29,3 @@ def test_info(client):
     data = response.get_json()
     assert 'version' in data
 
-
-def test_fail(): assert 1 == 2
