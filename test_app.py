@@ -29,3 +29,4 @@ def test_info(client):
     data = response.get_json()
     assert 'version' in data
 
+
