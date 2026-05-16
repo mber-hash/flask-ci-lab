@@ -5,4 +5,3 @@
 \# Flask CI Lab
 
 Flask API з автоматичним CI/CD через GitHub Actions.
-
